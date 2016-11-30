@@ -39,11 +39,11 @@ Anyone can use these notebooks for educational purposes (but not for any commerc
 ## Contents
 
 <ul>
-<li><a src="https://github.com/KrnTneja/NeuralNetworkNotebooks/blob/master/Transfer%20Functions.ipynb">Transfer Functions.ipynb</a></li>
-<li><a src= "https://github.com/KrnTneja/NeuralNetworkNotebooks/blob/master/Simple%20Layers%20of%20Neurons.ipynb">Simple Layers of Neurons.ipynb</a></li>
-<li><a src= "https://github.com/KrnTneja/NeuralNetworkNotebooks/blob/master/Recurrent%20Networks.ipynb">Recurrent Networks.ipynb</a></li>
-<li><a src= "https://github.com/KrnTneja/NeuralNetworkNotebooks/blob/master/Perceptron%20Learning%20Algorithm%20and%20Numpy%20Practice.ipynb">Perceptron Learning Algorithm and Numpy Practice.ipynb</a></li>
-<li><a src= "https://github.com/KrnTneja/NeuralNetworkNotebooks/blob/master/matplotlib%20Practice.ipynb">matplotlib Practice.ipyn</a></li>
-<li><a src= "https://github.com/KrnTneja/NeuralNetworkNotebooks/blob/master/matplotlib%20Practice%203D.ipynb">matplotlib Practice 3D.ipynb</a></li>
-<li><a src= "https://github.com/KrnTneja/NeuralNetworkNotebooks/blob/master/Supervised%20Hebbian%20Learning.ipynb">Supervised Hebbian Learning.ipynb</a></li>
+<li><a href="https://github.com/KrnTneja/NeuralNetworkNotebooks/blob/master/Transfer%20Functions.ipynb">Transfer Functions.ipynb</a></li>
+<li><a href="https://github.com/KrnTneja/NeuralNetworkNotebooks/blob/master/Simple%20Layers%20of%20Neurons.ipynb">Simple Layers of Neurons.ipynb</a></li>
+<li><a href= "https://github.com/KrnTneja/NeuralNetworkNotebooks/blob/master/Recurrent%20Networks.ipynb">Recurrent Networks.ipynb</a></li>
+<li><a href= "https://github.com/KrnTneja/NeuralNetworkNotebooks/blob/master/Perceptron%20Learning%20Algorithm%20and%20Numpy%20Practice.ipynb">Perceptron Learning Algorithm and Numpy Practice.ipynb</a></li>
+<li><a href= "https://github.com/KrnTneja/NeuralNetworkNotebooks/blob/master/matplotlib%20Practice.ipynb">matplotlib Practice.ipyn</a></li>
+<li><a href= "https://github.com/KrnTneja/NeuralNetworkNotebooks/blob/master/matplotlib%20Practice%203D.ipynb">matplotlib Practice 3D.ipynb</a></li>
+<li><a href= "https://github.com/KrnTneja/NeuralNetworkNotebooks/blob/master/Supervised%20Hebbian%20Learning.ipynb">Supervised Hebbian Learning.ipynb</a></li>
 </ul>
