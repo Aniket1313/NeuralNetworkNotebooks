@@ -46,9 +46,10 @@ Anyone can use these notebooks for educational purposes (but not for any commerc
 <li><a href= "https://github.com/KrnTneja/NeuralNetworkNotebooks/blob/master/matplotlib%20Practice.ipynb">matplotlib Practice.ipyn</a></li>
 <li><a href= "https://github.com/KrnTneja/NeuralNetworkNotebooks/blob/master/matplotlib%20Practice%203D.ipynb">matplotlib Practice 3D.ipynb</a></li>
 <li><a href= "https://github.com/KrnTneja/NeuralNetworkNotebooks/blob/master/Supervised%20Hebbian%20Learning.ipynb">Supervised Hebbian Learning.ipynb</a></li>
-<!--<li>Performance Optimization.ipynb</li>
-<li>Widrow-Hoff Learning.ipynb</li>
-<li>Backpropagation.ipynb</li>
+<li><a href= "https://github.com/KrnTneja/NeuralNetworkNotebooks/blob/master/Widrow-Hoff%20Learning.ipynb">Widrow-Hoff Learning.ipynb</a></li>
+<li><a href= "https://github.com/KrnTneja/NeuralNetworkNotebooks/blob/master/Performance%20Optimization.ipynb">Performance Optimization.ipynb</a></li>
+<li><a href= "https://github.com/KrnTneja/NeuralNetworkNotebooks/blob/master/Backpropagation.ipynb">Backpropagation.ipynb</a></li>
+<!--
  <li>Fruit Classification using Backpropagation.ipynb</li> -->
 </ul>
 
