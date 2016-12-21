@@ -48,7 +48,7 @@ Anyone can use these notebooks for educational purposes (but not for any commerc
 <li><a href= "https://github.com/KrnTneja/NeuralNetworkNotebooks/blob/master/Supervised%20Hebbian%20Learning.ipynb">Supervised Hebbian Learning</a></li>
 <li><a href= "https://github.com/KrnTneja/NeuralNetworkNotebooks/blob/master/Widrow-Hoff%20Learning.ipynb">Widrow-Hoff Learning</a></li>
 <li><a href= "https://github.com/KrnTneja/NeuralNetworkNotebooks/blob/master/Performance%20Optimization.ipynb">Performance Optimization</a></li>
-<li>[Article] <a href= "https://github.com/KrnTneja/NeuralNetworkNotebooks/blob/master/Backpropagation.ipynb">Backpropagation</a></li>
+<li><a href= "https://github.com/KrnTneja/NeuralNetworkNotebooks/blob/master/Backpropagation.ipynb">Backpropagation</a></li>
 <!--
  <li>Fruit Classification using Backpropagation.ipynb</li> -->
 </ul>
